@@ -16,3 +16,7 @@ As stated above, the main purpose is show examples of Git and Github usage.
 Deployment can be on any web server.
 
 ## How To Contribute
+
+### Copyright
+
+2019 Git.Training
