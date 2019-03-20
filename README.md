@@ -1,5 +1,7 @@
 # Starter Web Repo
 
+This is a simple website project to practice using Git and Github together.
+
 ## Introduction
 
 ## Purpose
