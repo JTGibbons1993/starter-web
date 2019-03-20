@@ -9,6 +9,10 @@ using a web project.
 
 ## Purpose
 
+As stated above, the main purpose is show examples of Git and Github usage.
+
 ## Deployment
+
+Deployment can be on any web server.
 
 ## How To Contribute
