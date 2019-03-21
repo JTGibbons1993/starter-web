@@ -17,6 +17,8 @@ Deployment can be on any web server.
 
 ## How To Contribute
 
+Please fork this repository and then issue pull requests for review
+
 ### Copyright
 
 2019 Git.Training
